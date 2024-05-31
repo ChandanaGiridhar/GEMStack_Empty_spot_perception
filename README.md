@@ -49,7 +49,7 @@ The model generated accurate spatial representations in images by detecting boun
 
 The YOLOv8 OBB model achieved a high mAP, indicating excellent performance in detecting empty parking spots. The model's performance was validated using both single images and real-time video streams, demonstrating its robustness and reliability.
 
-<img src="img1.png" alt="Result 1" width="300" height="200"><img src="img2.png" alt="Result 1" width="300" height="200"><img src="img4.png" alt="Result 1" width="300" height="200">
+<img src="img1.png" alt="Result 1" width="300" height="200"><img src="img4.png" alt="Result 1" width="300" height="200">
 
 
 
